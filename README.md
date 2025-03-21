@@ -1,7 +1,7 @@
 
 # IngáCad 
 
-Guia para subir o projeto **IngáCad** no localmente. 
+Guia para subir o projeto **IngáCad**  localmente. 
 
 ## Requisitos:
 
