@@ -49,7 +49,7 @@
                         </div>
 
                         <div class="d-grid gap-2">
-                            <button type="submit" class="btn btn-warning btn-lg">{{ __('Cadastrar') }}</button>
+                            <button type="submit" class="btn btn-warning btn-sm btn-lg">{{ __('Cadastrar') }}</button>
 
                             <a class="btn btn-link" href="{{ route('login') }}">
                                 {{ __('Já tem cadastro? Clique aqui para entrar') }}

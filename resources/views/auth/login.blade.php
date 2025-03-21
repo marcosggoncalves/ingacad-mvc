@@ -39,7 +39,7 @@
                         </div>
 
                         <div class="d-grid gap-2">
-                            <button type="submit" class="btn btn-warning btn-lg">{{ __('Entrar') }}</button>
+                            <button type="submit" class="btn btn-warning btn-sm btn-lg">{{ __('Entrar') }}</button>
 
                             @if (Route::has('password.request'))
                                 <a class="btn btn-link" href="{{ route('register') }}">
