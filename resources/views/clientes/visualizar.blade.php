@@ -18,7 +18,8 @@
             <li class="list-group-item"><strong>Cidade/Estado:</strong> {{ $cliente->cidade }} - {{ $cliente->estado }}</li>
         </ul>
         <div class="card-footer text-right">
-            <a href="{{ route('clientes.index') }}" class="btn text-white  btn-sm btn-warning">Voltar</a>
+            <a href=" {{ route('clientes.edit', $cliente) }}" class="btn text-white  btn-sm btn-warning">Editar</a>
+            <a href="{{ route('clientes.index') }}" class="btn text-white  btn-sm btn-secondary">Voltar</a>
         </div>
     </div>
 </div>
