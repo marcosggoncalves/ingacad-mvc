@@ -17,7 +17,6 @@ Primeiro, baixe o [XAMPP](https://www.apachefriends.org/pt_br/index.html) no seu
 
 - Durante a instalação, marque para instalar o **Apache** e o **MySQL**.
 - Após a instalação, abra o **XAMPP Control Panel** e inicie o **Apache** e o **MySQL**.
-- Se tudo correr bem, ambos devem estar com o status **Running**. 💻🚀
 
 ### 2. **Configurar o Banco de Dados**
 
